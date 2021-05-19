@@ -1,0 +1,58 @@
+water quality in north alabama is a serious concern for the rapidly growing population in huntsville and decatur. water samples were collected from sixteen sites (n=1251) and were classified as industrial, commercial, huntsville utilities (raw, process and finish), and rivers and streams. hexavalent chromium (chromium 6) was the dependant variable. oxidation-reduction potential (orp), ph, and temperature were measured as covariants of chromium 6. the primary objective was to determine if chromium 6 exists at any significant level at or above the proposed state of california standard of 0.02 ppb (2010) or the approved standard of 10 ppb in august 2013.
+
+the hach dr890 colorimeter method 80231, 5-diphylcarbohydrazide was used to measure chromium 6. this method has been approved by the epa, for analysis of hexavalent chromium, as equivalent to the epa method 218.6 (hach, 2011). the data was subjected to univariate general linear model analysis (glm), which is equivalent to analysis of covariance models (ancova) with one dependent variable and linear regression.  this analysis was to establish if there were significant differences among means attributable to covariates, independent variables or other factors. geographic information systems (gis) analysis was performed to establish the spatial distribution of hexavalent chromium. differences between cities were not large enough to account for differences in chromium 6. all rivers and streams (31.5 ppb) and huntsville utilities (29 ppb) sites had significantly higher levels of chromium 6 than commercial or 
+
+
+
+table 4.1 chromium 6 linear regression.
+
+variable
+
+parameter estimate
+
+standard error
+
+type ii ss
+
+f value
+
+pr>f
+
+intercept
+
+24.1995411
+
+4.04664
+
+0
+
+0
+
+1
+
+temperature
+
+-0.7814494
+
+0.13896
+
+48705
+
+31.11
+
+<0.0001
+
+orp
+
+0.02672116
+
+0.00549
+
+34167
+
+21.824
+
+<0.0001
+
+
+

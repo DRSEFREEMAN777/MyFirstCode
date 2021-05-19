@@ -1,0 +1,26 @@
+
+Table 4.1 Chromium 6 linear regression.
+Variable
+Parameter estimate
+Standard Error
+Type II SS
+F value
+Pr>F
+Intercept
+24.1995411
+4.04664
+0
+0
+1
+Temperature
+-0.7814494
+0.13896
+48705
+31.11
+<0.0001
+ORP
+0.02672116
+0.00549
+34167
+21.824
+<0.000
